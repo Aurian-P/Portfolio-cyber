@@ -21,7 +21,7 @@ Ce dépôt présente des rapports rédigés à partir de scénarios d'entraînem
 * **[HTB-Orion - Environnement Linux, Analyse des versions, CVEs, Metasploit, Cassage de hash bcrypt]**  
   * *Contexte :* Test d'intrusion interne type Black Box, Versions de services vulnérables, Exploitation de CVEs.
   * *Rapport d'exploitation (technique) :* [Lien](./Rapport_exploitation_orion_HTB.pdf)
-  * *Rapport d'audit (client) :* [Lien](./Rapport_Audit_Orion.HTB.pdf)
+  * *Rapport d'audit (client) :* [Lien](./Rapport_Audit_Orion_HTB.pdf)
 
 
 * **[HTB-Checkpoint - Environnement Windows, Active directory, SMB, BloodyAD, Kerberos, Volatility]**  
