@@ -13,12 +13,19 @@ Bienvenue sur mon espace de portfolio technique. Retrouvez ici une sélection me
 
 Ce dépôt présente des rapports rédigés à partir de scénarios d'entraînement sur des machines *retired* (conformémment aux règles des plateformes) :
 
-* **[Exercice 1 - HTB-Cap IDOR, Analyse PCAP, Elévation de privilège via Linux Capabilities]**  
-  * *Contexte :* Test d'intrusion interne, Vulnérabilité IDOR sur l'application web, Extraction d'identifiants en clair à partir d'un fichier PCAP, élévation de privilèges via le détournement d'une capability Linux.
-  * *Lien :* [Accéder au rapport](./Rapport_1.pdf)
+* **[HTB-Cap - Environnement Linux, Application web, Wireshark, Capabilities]**  
+  * *Contexte :* Test d'intrusion interne type Black Box, Vulnérabilité IDOR sur l'application web, Extraction d'identifiants en clair à partir d'un fichier PCAP, élévation de privilèges via le détournement d'une capability Linux.
+  * *Rapport d'exploitation (technique) :* [Lien](./Rapport_1.pdf)
 
-* **[Nom du rapport 2 - ex: Analyse de vulnérabilités et Restitution]**  
-  * *Contexte :* Exploitation d'application web, analyse de vulnérabilités et plan de remédiation associé.
-  * *Lien :* [Accéder au rapport](./Rapport_2.pdf)
 
+* **[HTB-Orion - Environnement Linux, Analyse des versions, CVEs, Metasploit, Cassage de hash bcrypt]**  
+  * *Contexte :* Test d'intrusion interne type Black Box, Versions de services vulnérables, Exploitation de CVEs.
+  * *Rapport d'exploitation (technique) :* [Lien](./Rapport_1.pdf)
+  * *Rapport d'audit (client) :* [Lien](./Rapport_1.pdf)
+
+
+* **[HTB-Checkpoint - Environnement Windows, Active directory, SMB, BloodyAD, Kerberos, Volatility]**  
+  * *Contexte :* Test d'intrusion interne (Grey Box), récupération de compte dans la corbeille AD, dépôt de fichier sur un share SMB permettant un reverse shell, récupération de ticket Kerberos, BadSuccessor, analyse de snapshot avec Volatility3.
+  * *Rapport d'exploitation (technique) :* [Lien](./Rapport_1.pdf)
+  * *Rapport d'audit (client) :* [Lien](./Rapport_1.pdf)
 ---
